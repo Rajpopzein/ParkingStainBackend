@@ -1,0 +1,23 @@
+{
+  "name": "parkingstain",
+  "version": "1.0.0",
+  "description": "api for parkingstain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajpopzein/ParkingStainBackend.git"
+  },
+  "keywords": [
+    "parking",
+    "api"
+  ],
+  "author": "Rajkumar R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajpopzein/ParkingStainBackend/issues"
+  },
+  "homepage": "https://github.com/Rajpopzein/ParkingStainBackend#readme"
+}
